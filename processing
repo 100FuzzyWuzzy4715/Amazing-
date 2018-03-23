@@ -9,8 +9,9 @@
     </head>
     <body>
         <div class= "TodaysInfo">
-        <img src="mid latitude crater, mars.jpg">
         <div class= "textBit">
+        <img src="mid latitude crater, mars.jpg">
+        <div class= "symbol">
         <h1>scenario hover</h1>
         </div>
       </div>
