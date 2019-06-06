@@ -1,2 +1,2 @@
-# Amazing-
+# AmazingScheduleToday-
 coding right now
